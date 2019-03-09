@@ -1,6 +1,9 @@
 com\jokin\spring\dao\BookDAO.class
 com\jokin\spring\config\AppConfig.class
-com\jokin\spring\config\WebConfig.class
 com\jokin\spring\dao\BookDAOImpl.class
-com\jokin\spring\model\Book.class
+com\jokin\spring\service\BookService.class
 com\jokin\spring\config\MyWebAppInitialiser.class
+com\jokin\spring\config\WebConfig.class
+com\jokin\spring\model\Book.class
+com\jokin\spring\service\BookServiceImpl.class
+com\jokin\spring\controller\BookController.class
